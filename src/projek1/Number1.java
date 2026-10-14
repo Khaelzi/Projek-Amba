@@ -9,5 +9,7 @@ package projek1;
  * @author KhaeLL
  */
 public class Number1 {
-    
+    Public static void num1(){
+        System.out.println("Number 1");
+    }
 }
